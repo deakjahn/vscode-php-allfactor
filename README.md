@@ -4,7 +4,7 @@
 
 ## Early development period
 
-The extension is in its infancy now. It's planned to provide freemium support, with some functions remaining available for free, while others for a single, one-time purchase, perpetual use PREMIUM key. Developing and maintaining such an extension requires a considerable amount of time and effort and is only feasible with some support from its users. Right now, during this early period, it's freely available but when it matures, early adopters will be rewarded for their continuing support, although the details are not yet determined (probably in the form of a limited time period to claim a free license key, or something similar).
+The extension is in its infancy now. It's planned to provide freemium support, with some functions remaining available for free, while others for a single, one-time purchase, perpetual use premium key. Developing and maintaining such an extension requires a considerable amount of time and effort and is only feasible with some support from its users. Right now, during this early period, it's freely available but when it matures, early adopters will be rewarded for their continuing support, although the details are not yet determined (probably in the form of a limited time period to claim a free license key, or something similar).
 
 * Extract, inline and rename constants, variables, methods and functions.
 * Splitting and merging **if** statements, swapping **then** and **else** branches, conversion of conditionals to ternary operations.
