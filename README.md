@@ -1,6 +1,6 @@
 # PHP AllFactor
 
-**AllFactor** is a comprehensive PHP refactoring tool for Visual Studio Code. It aims to provide all popular and feasible refactoring operations for PHP, and then some. The main goal is that, coupled with a code intelligence solution like [Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client), they should provide practically everything you need in order to enjoy a full PHP development experience in Visual Studio Code that parallels the offerings of any competing IDE.
+**PHP AllFactor** is a comprehensive PHP refactoring tool for Visual Studio Code. It aims to provide all popular and feasible refactoring operations for PHP, and then some. The main goal is that, coupled with a code intelligence solution like [Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client), they should provide practically everything you need in order to enjoy a full PHP development experience in Visual Studio Code that parallels the offerings of any competing IDE.
 
 ## Early development period
 
@@ -24,7 +24,7 @@ The extension is in its infancy now. It's planned to provide freemium support, w
 
 ## Acknowledgements
 
-The Software uses the following open source libraries. Please see the following links for source code and licences.
+**PHP AllFactor** uses the following open source libraries. Please see the following links for source code and licences.
 
 * [php-parser](https://github.com/glayzzle/php-parser)
 * [doc-parser](https://github.com/glayzzle/doc-parser)
