@@ -24,7 +24,7 @@ The extension is in its infancy now. It's planned to provide freemium support, w
 
 ## Acknowledgements
 
-**PHP AllFactor** uses the following open source libraries. Please see the following links for source code and licences.
+**PHP AllFactor** uses the following open source libraries. Visit the following links for source code and licences.
 
 * [php-parser](https://github.com/glayzzle/php-parser)
 * [doc-parser](https://github.com/glayzzle/doc-parser)
