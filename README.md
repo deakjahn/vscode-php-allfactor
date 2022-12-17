@@ -21,3 +21,12 @@ The extension is in its infancy now. It's planned to provide freemium support, w
 * Infer function **return and parameter types** from actual usage.
 * Organize **use** imports with customizable grouping level. Add and rename **use** aliases.
 * Add, delete, reorder **function arguments**, change **signature**.
+
+## Acknowledgements
+
+The Software uses the following open source libraries. Please see the following links for source code and licences.
+
+* [php-parser](https://github.com/glayzzle/php-parser)
+* [doc-parser](https://github.com/glayzzle/doc-parser)
+* [Simple-DataTables](https://github.com/fiduswriter/Simple-DataTables)
+* [codicon](https://github.com/microsoft/vscode-codicons)
