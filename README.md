@@ -1,6 +1,6 @@
 # PHP AllFactor
 
-**AllFactor** is a comprehensive PHP refactoring tool for Visual Studio Code. It aims to provide all popular and feasible refactoring operations for PHP, and then some. The main goal is that, coupled with a code intelligence solution like [Intelephense](https://intelephense.com), they should provide practically everything you need in order to enjoy a full PHP development experience in Visual Studio Code that parallels the offerings of any competing IDE.
+**AllFactor** is a comprehensive PHP refactoring tool for Visual Studio Code. It aims to provide all popular and feasible refactoring operations for PHP, and then some. The main goal is that, coupled with a code intelligence solution like [Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client), they should provide practically everything you need in order to enjoy a full PHP development experience in Visual Studio Code that parallels the offerings of any competing IDE.
 
 ## Early development period
 
@@ -11,13 +11,13 @@ The extension is in its infancy now. It's planned to provide freemium support, w
 * Conversion between **for** and **foreach** loops.
 * Conversion between **switch** statements, **match** expressions and **if-else** chains.
 * Surround existing code with **if, foreach, for, while, do...while, try...catch** statements.
-* Add and remove numeric separators.
+* Add and remove **numeric separators**.
 * String manipulations, single and double quotes, case changes.
-* Conversion between interpolated and concatenated strings.
-* Conversion between arrow and anonymous functions.
-* Conversion between short and long format arrays and lists.
-* Moving operators into and out of assignments.
-* Creating getters and setters of properties. Renaming properties with getters/setters. Splitting property declarations.
-* Infer function return and parameter types from actual usage.
-* Organize **use** imports with customizable grouping level.
-* Add, delete, reorder function parameters.
+* Conversion between interpolated and concatenated **strings**.
+* Conversion between arrow and anonymous **functions**.
+* Conversion between short and long format **arrays** and **lists**.
+* Moving **operators** into and out of **assignments**.
+* Creating **getters** and **setters** of properties. Renaming properties with getters/setters. Splitting property declarations.
+* Infer function **return and parameter types** from actual usage.
+* Organize **use** imports with customizable grouping level. Add and rename **use** aliases.
+* Add, delete, reorder **function arguments**, change **signature**.
