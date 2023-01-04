@@ -12,21 +12,27 @@ The extension is in its infancy now. It's planned to provide freemium support, w
 * Conversion between **switch** statements, **match** expressions and **if-else** chains.
 * Surround existing code with **if, foreach, for, while, do...while, try...catch** statements.
 * Add and remove **numeric separators**.
-* String manipulations, single and double quotes, case changes.
-* Conversion between interpolated and concatenated **strings**.
-* Conversion between arrow and anonymous **functions**.
-* Conversion between short and long format **arrays** and **lists**.
-* Moving **operators** into and out of **assignments**.
+* String manipulations, single and double **quotes, case changes.**
+* Conversion between interpolated and concatenated **strings.**
+* Conversion between arrow and anonymous **functions.**
+* Conversion between short and long format **arrays** and **lists.**
+* Moving **operators** into and out of **assignments.**
 * Creating **getters** and **setters** of properties. Renaming properties with getters/setters. Splitting property declarations.
 * Infer function **return and parameter types** from actual usage.
-* Organize **use** imports with customizable grouping level. Add and rename **use** aliases.
-* Add, delete, reorder **function arguments**, change **signature**.
+* Organize **use** imports with customizable grouping level. Add, rename and remove **use aliases.**
+* Add, delete, reorder **function arguments,** change **signature.**
+
+## Help
+
+If you suspect any issue with stale analysis, just use the _Command Palette_ in VS Code to run the _Clear workspace cache_ command of **PHP AllFactor.** It's absolutely safe to do so at any time, it only clears the extension's cached analysis data inside the workspace cache and it will be recreated as soon as required again.
 
 ## Acknowledgements
 
 **PHP AllFactor** uses the following open source libraries. Visit the following links for source code and licences.
 
+* [vscode-languageserver-node](https://github.com/Microsoft/vscode-languageserver-node)
 * [php-parser](https://github.com/glayzzle/php-parser)
 * [doc-parser](https://github.com/glayzzle/doc-parser)
+* [minimatch](https://github.com/isaacs/minimatch)
 * [Simple-DataTables](https://github.com/fiduswriter/Simple-DataTables)
 * [codicon](https://github.com/microsoft/vscode-codicons)
