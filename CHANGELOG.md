@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.3.3] - 2023-04-04
+
+- Fixed: ignore folders without access
+
+## [1.3.2] - 2023-04-02
+
+- Fixed: cache save error
+
 ## [1.3.1] - 2023-03-30
 
 - Fixed: cache load error
