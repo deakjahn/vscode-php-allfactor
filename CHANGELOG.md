@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.3.4] - 2023-04-15
+
+- Improved: setting to exclude folders and files. Fix [#3](https://github.com/deakjahn/vscode-php-allfactor/issues/3).
+- Improved: extract constant, nested blocks description. Fix [#4](https://github.com/deakjahn/vscode-php-allfactor/issues/4).
+
 ## [1.3.3] - 2023-04-04
 
 - Fixed: ignore folders without access
